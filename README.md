@@ -21,14 +21,7 @@ The diploma program covers the following topics:
 - **Natural Language Processing (NLP)** (10 Sessions, 50 Hours)
 - **MLOps** (2 Sessions, 10 Hours)
 - **Projects**
-
-## Repository Structure
-
-- **/notes**: Contains notes and summaries from each session.
-- **/code**: Includes Python scripts and code examples from the program.
-- **/projects**: Houses the final projects completed during the diploma.
-- **/resources**: Additional learning materials and references.
-
+- 
 ## Getting Started
 
 To get started with the materials in this repository, clone the repository to your local machine:
